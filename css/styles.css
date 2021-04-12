@@ -1,0 +1,33 @@
+body {
+    margin: 50px 330px 50px 330px;
+}
+
+.orange {
+color: orange;  
+}
+
+.red{
+color: orangered;
+}
+
+.italic{
+font-style: italic;
+}
+
+.green{
+color:green
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.thin{
+    font-weight: 50;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+  }
