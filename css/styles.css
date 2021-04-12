@@ -29,5 +29,12 @@ color:green
 table, th, td {
     border: 1px solid black;
     text-align: center;
-    margin: 10px;
   }
+td{
+      padding: 5px 10px 5px 10px;
+  }
+
+
+.bordercolor{
+    border-color: red;
+}  
